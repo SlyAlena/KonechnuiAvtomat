@@ -8,8 +8,12 @@
 
 
 
+
+
 1) Тип автомата
  Детерминированный конечный автомат (ДКА) — каждый шаг варки однозначно определяет переход между состояниями.
+
+
 
 2) Определение компонентов автомата
   1. Множество состояний Q:
@@ -56,16 +60,22 @@
   7. Состояние ошибки qerr — «поглощающее» (из него нет выходов).
 
 
+
+
 3) Таблица переходов
    
 ![Alt text](URL_to_image "Optional title")
 <img width="363" height="237" alt="image" src="https://github.com/user-attachments/assets/b1b36d8c-13d0-42d1-a33b-1092cf121a5b" />
 
 
+
+
 4) Графическая схема (диаграмма состояний)
 
    ![Alt text](URL_to_image "Optional title")
    <img width="732" height="378" alt="image" src="https://github.com/user-attachments/assets/fc248f40-8bc8-4424-a1bb-2242f7dc21ac" />
+
+
 
 
 5) Проверка работы автомата
